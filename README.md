@@ -1,2 +1,14 @@
 # DavOS
-This is a 50 function code, that executes 50 different functions, by choosing 1-50 numbers.
+
+A minimal operating system-like environment built with Python.  
+This project is for viewing purposes only.
+
+## License
+
+© 2025 Davit Sargsyan. All Rights Reserved.  
+This software may not be copied, modified, distributed, or used without written permission.
+
+## Author
+
+Davit Sargsyan
+
